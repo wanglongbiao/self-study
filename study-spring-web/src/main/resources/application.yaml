@@ -1,0 +1,11 @@
+
+elasticsearch:
+  host: localhost
+spring:
+  elasticsearch:
+    jest:
+      proxy:
+        host:
+#elasticsearch.clustername = mkyong-cluster
+#elasticsearch.host = localhost
+#elasticsearch.port = 9300
